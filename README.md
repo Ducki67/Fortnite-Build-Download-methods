@@ -30,10 +30,10 @@ This repository aimed for to help the OG Fortnite community with developing and 
 |------------------------- |-------------------------------|-----------------------|
 |     1.7.2 - 20.40        |  [Rebootfn build versions](https://builds.rebootfn.org/versions.json) | [Click here!](https://discord.gg/rebootmp) |
 
-
-
+|------------------------------------------------------------------------------------|
 
 # Builds for *Other* platforms Fortnite
+
 
 # Nintendo Switch Archive
 |     Available builds     |       Website/Archive       	 |      Discord server      |
@@ -59,6 +59,6 @@ This repository aimed for to help the OG Fortnite community with developing and 
 
 
 
-**Litle info:** 
+**Litle more info:** 
 
 *Not fully done yet but it will be for sure in the future*
