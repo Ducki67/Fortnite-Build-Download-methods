@@ -10,42 +10,42 @@ This repository aimed for to help the OG Fortnite community with developing and 
 
 
 
-# Fortnite Builds
+ - # Fortnite Builds
 |     Available builds     |       Website/Archive       	 |      Discord server      |
 | -------------------------| ------------------------------| ------------------------ |
 |     OT6.5 - 20.40        |   [Fortnite Builds](https://github.com/n6617x/Fortnitebuilds) |  [Click here!](https://discord.gg/D9jVGQpBf2) |
 
-# Universal Fortnite Archive
+ - # Universal Fortnite Archive
 |     Available builds     |       Website/Archive       	 |   Discord server      |
 |------------------------- |-------------------------------|-----------------------|
 |     1.7.2 - 34.10        |   [The Universal Fortnite Archive](https://public.fortnitearchive.xyz/) | [Click here!](https://discord.gg/6YDdUUHArV) |
 
-# Fortnite More Builds
+ - # Fortnite More Builds
 |     Available builds     |       Website/Archive       	 |   Discord server      |
 |------------------------- |-------------------------------|-----------------------|
 |     OT6.5 - 27.11        |   [Fortnite Builds Archive](https://github.com/itztiva/Fortnitebuilds) | [Click here!](https://discord.gg/6YDdUUHArV) |
 
-# RebootFn
+ - # RebootFn
 |     Available builds     |       Website/Archive       	 |   Discord server      |
 |------------------------- |-------------------------------|-----------------------|
 |     1.7.2 - 20.40        |  [Rebootfn build versions](https://builds.rebootfn.org/versions.json) | [Click here!](https://discord.gg/rebootmp) |
 
-# ------------------------------------------------------------------------------
+ - # ------------------------------------------------------------------------------
 
 # Builds for *Other* platforms
 *Nintendo Swich, Android, iOS builds included.*
 
-# Fortnite Nintendo Switch Archive
+ - # Fortnite Nintendo Switch Archive
 |     Available builds     |       Website/Archive       	 |      Discord server      |
 | -------------------------| ------------------------------| ------------------------ |
 |     4.4.2 - 19.40.1      |   [Fortnite Switch Builds](https://github.com/n6617x/FortniteSwitchBuilds) |  [Click here!](https://discord.gg/j8s8TH5QH4) |
 
-# Fortnite iOS Archive
+ - # Fortnite iOS Archive
 |     Available builds     |       Website/Archive       	 |      Discord server      |
 | -------------------------| ------------------------------| ------------------------ |
 |     3.3 - 13.40          |   [Fortnite iOS Builds](https://github.com/Crunnie/FNiOS-Archive) | N/A |
 
-# Fortnite Android Builds
+ - # Fortnite Android Builds
 |     Available builds     |       Website/Archive       	 |      Discord server      |
 | -------------------------| ------------------------------| ------------------------ |
 |     5.20 - 21.30         |   [Fortnite Android Builds](https://github.com/itztiva/FortniteAndroidBuilds) | N/A |
