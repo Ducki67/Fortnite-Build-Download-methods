@@ -69,4 +69,4 @@ This repository aimed for to help the OG Fortnite community with developing and 
 
  - - **Litle more info:** 
 
-*Not fully done yet but it will be for sure in the future*
+*Not fully done yet but it will be for sure in the future.*
