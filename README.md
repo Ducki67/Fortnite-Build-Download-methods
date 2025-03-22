@@ -11,9 +11,9 @@ This repository aimed for to help the OG Fortnite community with developing and 
 This repository serves as a **hub** for various archives and download methods related to Fortnite builds. Instead of searching across multiple sources, you can find everything **in one place**.  
 
 ## 📂 Available Archives / Websites & Methods
-🔹 **[Shoqapique's Archive](#)** – Direct download mirror  
-🔹 **[XYZ Archive](#)** – Torrent method  
-🔹 **[Google Drive Mirror](#)** – Cloud storage option  
+🔹 **Archive** – Direct download mirror  
+🔹 **XYZ Archive** – Torrent method  
+🔹 **Google Drive Mirror** – Cloud storage option  
 ## ⚠️ Disclaimer  
 This repository does **not** host any Fortnite files. It only provides links to external sources.  
 
