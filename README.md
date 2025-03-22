@@ -8,12 +8,13 @@ This repository aimed for to help the OG Fortnite community with developing and 
 *Not all the Builds are downloadable from these "Archives" or "Web archives"  also make sure those websites are Online to downlaod builds for OGFN.*
 *Also the credits are in their sites and make sure to support these people!*
 
-This repository serves as a **hub** for various archives and download methods related to Fortnite builds. Instead of searching across multiple sources, you can find everything **in one place**.  
+This repository serves as a **List** for various archives and download methods related to Fortnite builds. Instead of searching across multiple sources, you can find everything **in one place**.  
 
 ## 📂 Available Archives / Websites & Methods
 🔹 **Archive** – Direct download mirror  
 🔹 **XYZ Archive** – Torrent method  
 🔹 **Google Drive Mirror** – Cloud storage option  
+*All  this in **one** repository Archives / Webistes as a list.*
 ## ⚠️ Disclaimer  
 This repository does **not** host any Fortnite files. It only provides links to external sources.  
 
