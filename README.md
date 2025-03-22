@@ -8,7 +8,8 @@ This repository aimed for to help the OG Fortnite community with developing and 
 *Not all the Builds are downloadable from these "Archives" or "Web archives"  also make sure those websites are Online to downlaod builds for OGFN.*
 *Also the credits are in their sites and make sure to support these people!*
 
-
+# Builds for *PC* platforms
+*PC builds included.*
 
  - # Fortnite Builds
 |     Available builds     |       Website/Archive       	 |      Discord server      |
@@ -30,7 +31,7 @@ This repository aimed for to help the OG Fortnite community with developing and 
 |------------------------- |-------------------------------|-----------------------|
 |     1.7.2 - 20.40        |  [Rebootfn build versions](https://builds.rebootfn.org/versions.json) | [Click here!](https://discord.gg/rebootmp) |
 
- - # ------------------------------------------------------------------------------
+
 
 # Builds for *Other* platforms
 *Nintendo Swich, Android, iOS builds included.*
