@@ -27,10 +27,10 @@ This repository does **not** host any Fortnite files. It only provides links to 
 | -------------------------| ------------------------------| ------------------------ |
 |     OT6.5 - 20.40        |   [Fortnite Builds](https://github.com/n6617x/Fortnitebuilds) |  [Click here!](https://discord.gg/D9jVGQpBf2) |
 
- - # Universal Fortnite Archive
+ - # ~~Universal Fortnite Archive~~
 |     Available builds     |       Website/Archive       	 |   Discord server      |
 |------------------------- |-------------------------------|-----------------------|
-|     1.7.2 - 34.10        |   [The Universal Fortnite Archive](https://public.fortnitearchive.xyz/) | [Click here!](https://discord.gg/6YDdUUHArV) |
+|     1.7.2 - 34.10        |   [~~The Universal Fortnite Archive~~](https://public.fortnitearchive.xyz/) | [~~Click here!~~](https://discord.gg/6YDdUUHArV) |
 
  - # Fortnite More Builds
 |     Available builds     |       Website/Archive       	 |   Discord server      |
