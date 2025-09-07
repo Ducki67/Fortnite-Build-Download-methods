@@ -42,10 +42,10 @@ This repository does **not** host any Fortnite files. It only provides links to 
 |------------------------- |-------------------------------|-----------------------|
 |     1.7.2 - 20.40        |  [Rebootfn build versions](https://builds.rebootfn.org/versions.json) | [Click here!](https://discord.gg/rebootmp) |
 
-- # ~~mtbr29.dev~~
+- # mtbr29.dev
 |     Available builds     |       Website/Archive       	 |   Discord server      |
 |------------------------- |-------------------------------|-----------------------|
-|     OT6.5 - 26.30        |  [~~mtbr29.dev/builds~~](https://mtbr29.dev/builds) | ~~N/A~~ |
+|     OT6.5 - 26.30        |  [mtbr29.dev/builds](https://mtbr29.dev/builds) | ~~N/A~~ |
 
 
 
